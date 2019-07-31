@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/docplannerReact/static/css/main.3accc808.chunk.css",
+    "main.js": "/docplannerReact/static/js/main.ce659958.chunk.js",
+    "main.js.map": "/docplannerReact/static/js/main.ce659958.chunk.js.map",
+    "runtime~main.js": "/docplannerReact/static/js/runtime~main.ca513ad7.js",
+    "runtime~main.js.map": "/docplannerReact/static/js/runtime~main.ca513ad7.js.map",
+    "static/js/2.548e0644.chunk.js": "/docplannerReact/static/js/2.548e0644.chunk.js",
+    "static/js/2.548e0644.chunk.js.map": "/docplannerReact/static/js/2.548e0644.chunk.js.map",
+    "index.html": "/docplannerReact/index.html",
+    "precache-manifest.d45435fd5f46b452738cd3f87f442f1f.js": "/docplannerReact/precache-manifest.d45435fd5f46b452738cd3f87f442f1f.js",
+    "service-worker.js": "/docplannerReact/service-worker.js",
+    "static/css/main.3accc808.chunk.css.map": "/docplannerReact/static/css/main.3accc808.chunk.css.map"
+  }
+}
